@@ -1,7 +1,7 @@
 # vid_downloader
 
-**A Simple Python Script that helps download videos from websites.**
-D
+**A Simple Python Script that helps download videos from websites.**  
+
 **Description:** Provide a link to the video you wish to download and it automatically does all the hard work for you! Specify the path where you choose to save the file, so that it gets downloaded there.
 
 Works for youtube playlists too, if the link to the first video of the playlist is supplied.  
